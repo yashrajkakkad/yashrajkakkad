@@ -1,5 +1,8 @@
 <h1 align="center">Howdy GitHub-er 👋, Yashraj this side!</h1>
 
+<p align="center">
+<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
+</p>
 - 🔭 I’m currently working on [Resea](https://github.com/nuta/resea)
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
